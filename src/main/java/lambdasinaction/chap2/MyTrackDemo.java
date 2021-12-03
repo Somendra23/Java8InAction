@@ -1,0 +1,3 @@
+interface MyTrackDemo{
+	void runProcess();
+}
