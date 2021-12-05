@@ -1,1 +1,3 @@
 binfo sgh
+
+ok i am updating it outside git env
